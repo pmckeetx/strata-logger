@@ -1,3 +1,3 @@
 # Strata Logger
 
-Logger done just a little better than console.log
+Logging done just a little better than console.log
